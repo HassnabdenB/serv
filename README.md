@@ -1,13 +1,12 @@
-# Bianco Ristorante — GitHub Pages
+# Mayur Indian Kitchen — Reservation Demo
 
-موقع ثابت جاهز للنشر على GitHub Pages.
+Static HTML/CSS/JavaScript demo site designed for GitHub Pages.
 
-## النشر
-1. أنشئ مستودعًا جديدًا على https://github.com/new
-2. ارفع `index.html` إلى جذر المستودع.
-3. افتح Settings → Pages.
-4. تحت Build and deployment اختر Deploy from a branch.
-5. اختر الفرع `main` والمجلد `/ (root)` ثم Save.
-6. بعد اكتمال النشر افتح الرابط الذي يظهر في صفحة Pages.
+## Publish on GitHub Pages
+1. Create a GitHub repository.
+2. Upload `index.html` and `mayur-reservation-preview.png` to the repository root.
+3. Open **Settings → Pages**.
+4. Under Build and deployment, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
 
-ملاحظة: هذه واجهة تجريبية، وزر صفحة الحجز يفتح SevenRooms. لا يتم تأكيد الحجز أو التحقق من توفر الطاولات داخل هذه الواجهة.
+## Important
+This is an independent visual demo, not the restaurant's official booking system. The form does not transmit or store reservation details and never confirms a booking. For actual reservations, use https://www.indianfoodtaiwan.com/reservations.
